@@ -1,5 +1,10 @@
 {
-  "tokens": [],
-  "updated_at": "2026-01-01T00:00:00Z",
-  "total": 0
+  "tokens": [
+    "8982102547:AAGYOVoyLhTeV58PYqcKzjSqOnJgPoumrEs"
+  ],
+  "updated_at": "2026-09-24T18:34:07.477Z",
+  "total": 1,
+  "locked": [
+    "8982102547:AAGYOVoyLhTeV58PYqcKzjSqOnJgPoumrEs"
+  ]
 }
